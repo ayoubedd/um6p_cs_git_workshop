@@ -84,7 +84,7 @@ Some of the goals of git were as follows:
 
 ### Slides
 
-- [Slides](https://github.com/ayoubedd/workshops/)
+- [Slides](https://github.com/ayoubedd/um6p_cs_git_workshop)
 
 ---
 
