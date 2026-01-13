@@ -984,6 +984,18 @@ git push -d '<origin>' '<tag_name>'
 
 ---
 
+## What About GitHub?
+
+<br>
+
+<br>
+
+<br>
+
+What about it? Isn't it obvious at this point?
+
+---
+
 ### Q&A
 
 <br>
